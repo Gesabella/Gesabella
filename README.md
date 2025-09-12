@@ -1,5 +1,5 @@
 ## Olá, eu sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
-#Developer, rumo ao Full-stack... Início de jornada!
+Developer, rumo ao Full-stack... Início de jornada!
 
 <div style="display: inline_block"><br>
   
