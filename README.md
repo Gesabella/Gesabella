@@ -9,8 +9,9 @@ Developer, rumo ao Full-stack... Início de jornada!
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF">
   <img align="center" alt="git" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+                 
           
                 
 </div>
