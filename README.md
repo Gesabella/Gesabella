@@ -1,6 +1,8 @@
 ## Olá, eu sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
 Developer, rumo ao Full-stack... Início de jornada!
 
+
+Aqui estão algumas das tecnologias que estou aprendendo:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,8 +12,10 @@ Developer, rumo ao Full-stack... Início de jornada!
   <img align="center" alt="git" height="30" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF">
   <img align="center" alt="git" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-                 
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+                               
           
                 
 </div>
