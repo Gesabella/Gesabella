@@ -4,9 +4,20 @@
   </a>
 </div>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+computer+science+student;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
 
-## Olá, eu sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
-Developer, rumo ao Full-stack... Início de jornada!
+<div align="center">
+  
+  <b>`よろしくおねがいします！`</b>
+  <samp>
+      <br>
+
+  </samp>
+</div>
+
+## Olá, sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
 
 
 Aqui estão algumas das tecnologias que estou aprendendo:
