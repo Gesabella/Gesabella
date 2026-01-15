@@ -19,7 +19,18 @@
 
 ## Olá, sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
 
+Confira meu portifólio logo abaixo.
 
+[![Meu Protifólio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/portifolio/)
+[![Currículo](https://img.shields.io/badge/Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)]((https://drive.google.com/file/d/1WDmSr-j3IWaviVLVhJVbZfzejjEbU2CS/view?usp=drive_link))
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gesabellamonteiro)
+
+
+Tenho praticado e estudado nas horas vagas para melhorar um pouquinho a cada dia.
+Seja na digitação, leitura de livros, vídeo aulas e exercitando a codificação com metas diarias.
+
+
+  
 Aqui estão algumas das tecnologias que estou aprendendo:
 <div style="display: inline_block"><br>
   
@@ -34,9 +45,8 @@ Aqui estão algumas das tecnologias que estou aprendendo:
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
                                
-          
-                
 </div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gesabella/gesabella/output/github-contribution-grid-snake-dark.svg">
