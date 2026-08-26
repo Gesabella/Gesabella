@@ -25,7 +25,7 @@ Confira meu portifólio logo abaixo.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gesabellamonteiro)
 
-[![Curriculo](https://img.shields.io/badge/Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://drive.google.com/file/d/1VM65XJkGAEuphBZrkefm8iscTk3sphZn/view?usp=sharing)
+[![Curriculo](https://img.shields.io/badge/Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://drive.google.com/file/d/1CVx7zJmfFzCIySX93gZx8Byneh5XI2w_/view?usp=sharing)
 
 Tenho praticado e estudado nas horas vagas para melhorar um pouquinho a cada dia.
 Seja na digitação, leitura de livros, vídeo aulas e exercitando a codificação com metas diarias.
