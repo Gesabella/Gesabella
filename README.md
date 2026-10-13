@@ -19,9 +19,9 @@
 
 ## Olá, sou a Gesabella Montenteiro, entusiasta de programação e tecnologia!
 
-Confira meu portifólio logo abaixo.
+Confira meu portfólio logo abaixo.
 
-[![Meu Protifólio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/portifolio/)
+[![Meu Protfólio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/portifolio/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gesabellamonteiro)
 
