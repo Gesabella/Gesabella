@@ -21,7 +21,7 @@
 
 Confira meu portfólio logo abaixo.
 
-[![Meu Protfólio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/portifolio/)
+[![Meu Protfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/portfolio/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gesabellamonteiro)
 
